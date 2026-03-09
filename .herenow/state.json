@@ -1,0 +1,52 @@
+{
+  "publishes": {
+    "queued-quasar-7ycg": {
+      "siteUrl": "https://queued-quasar-7ycg.here.now/"
+    },
+    "cozy-silence-dq28": {
+      "siteUrl": "https://cozy-silence-dq28.here.now/",
+      "claimToken": "f08fe21e41f95df977f6aa54ad33900491302346cbda1fda8e312102d4e4041e",
+      "claimUrl": "https://here.now/claim?slug=cozy-silence-dq28&token=f08fe21e41f95df977f6aa54ad33900491302346cbda1fda8e312102d4e4041e",
+      "expiresAt": "2026-03-07T14:54:18.054Z"
+    },
+    "whole-gorge-fecp": {
+      "siteUrl": "https://whole-gorge-fecp.here.now/",
+      "claimToken": "f259841693a93a602efc8861364e3c062b5d3e48bb73c5cd6e2d25191c7d8a70",
+      "claimUrl": "https://here.now/claim?slug=whole-gorge-fecp&token=f259841693a93a602efc8861364e3c062b5d3e48bb73c5cd6e2d25191c7d8a70",
+      "expiresAt": "2026-03-07T15:02:52.469Z"
+    },
+    "wander-spirit-yy5q": {
+      "siteUrl": "https://wander-spirit-yy5q.here.now/",
+      "claimToken": "f1a59c1031e6a938598e69e0e9b07b03db7c137080facd4223cb8e2fb705b74d",
+      "claimUrl": "https://here.now/claim?slug=wander-spirit-yy5q&token=f1a59c1031e6a938598e69e0e9b07b03db7c137080facd4223cb8e2fb705b74d",
+      "expiresAt": "2026-03-07T15:12:29.608Z"
+    },
+    "cosmic-poplar-x2k6": {
+      "siteUrl": "https://cosmic-poplar-x2k6.here.now/",
+      "claimToken": "79098a25bb952d9e9d1a87f5ada5e58b26ba46684b3ff46aedf36f7424d3fba7",
+      "claimUrl": "https://here.now/claim?slug=cosmic-poplar-x2k6&token=79098a25bb952d9e9d1a87f5ada5e58b26ba46684b3ff46aedf36f7424d3fba7",
+      "expiresAt": "2026-03-07T15:22:22.883Z"
+    },
+    "bronze-falcon-6zkf": {
+      "siteUrl": "https://bronze-falcon-6zkf.here.now/"
+    },
+    "fierce-knoll-wpef": {
+      "siteUrl": "https://fierce-knoll-wpef.here.now/",
+      "claimToken": "b944f543d20a46564fa665a099964d77d8ae680425127f845222d1249671ced9",
+      "claimUrl": "https://here.now/claim?slug=fierce-knoll-wpef&token=b944f543d20a46564fa665a099964d77d8ae680425127f845222d1249671ced9",
+      "expiresAt": "2026-03-07T17:01:17.370Z"
+    },
+    "russet-thistle-et3q": {
+      "siteUrl": "https://russet-thistle-et3q.here.now/",
+      "claimToken": "55336affd45c92a460ac962e14ed26642da12b2ad974c80b26bab6795afb9334",
+      "claimUrl": "https://here.now/claim?slug=russet-thistle-et3q&token=55336affd45c92a460ac962e14ed26642da12b2ad974c80b26bab6795afb9334",
+      "expiresAt": "2026-03-07T17:34:32.663Z"
+    },
+    "cosmic-anvil-ttrv": {
+      "siteUrl": "https://cosmic-anvil-ttrv.here.now/",
+      "claimToken": "3b16a175d2923212ae51c3170d4f30e8e6992bea53a7f6de928e6388d7de2db7",
+      "claimUrl": "https://here.now/claim?slug=cosmic-anvil-ttrv&token=3b16a175d2923212ae51c3170d4f30e8e6992bea53a7f6de928e6388d7de2db7",
+      "expiresAt": "2026-03-07T21:07:49.088Z"
+    }
+  }
+}
